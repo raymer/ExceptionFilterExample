@@ -52,3 +52,4 @@ _ReSharper.*
 bin
 obj
 packages
+.vs/config/applicationhost.config
